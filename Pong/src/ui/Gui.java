@@ -14,6 +14,7 @@ public class Gui {
         jf.setLayout(null);
         jf.requestFocus();
         jf.getContentPane().setBackground(Color.darkGray);
+        jf.setVisible(true);
 
     }
 }
