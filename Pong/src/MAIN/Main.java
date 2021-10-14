@@ -1,6 +1,6 @@
 package Pong.src.MAIN;
 
-import ui.Gui;
+import Pong.src.ui.Gui;
 
 public class Main {
 

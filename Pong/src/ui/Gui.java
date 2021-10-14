@@ -1,4 +1,4 @@
-package ui;
+package Pong.src.ui;
 
 import javax.swing.*;
 import java.awt.*;
