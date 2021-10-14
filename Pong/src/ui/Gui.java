@@ -15,12 +15,10 @@ public class Gui {
         jf.requestFocus();
         jf.getContentPane().setBackground(new Color(0, 0, 0, 0));
         jf.setVisible(true);
-        jf.setUndecorated(true);
 
-        JPanel panel = new JPanel();
-        panel.setBackground(Color.darkGray);
-        panel.setSize(1000,60);
-        panel.setVisible(true);
+
+
 
     }
+
 }
